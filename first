@@ -1,0 +1,4 @@
+>>> mystring = «Hello»
+>>> mystring += " world."
+>>> print mystring
+Hello world.
